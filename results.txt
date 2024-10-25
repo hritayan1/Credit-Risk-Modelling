@@ -1,0 +1,19 @@
+Random Forest : 0.76
+Xgboost : 0.78
+Decision Tree : 0.71
+
+Accuracy values
+Xgboost is better. Now we will finetune it.
+
+HP tuning
+Feature Engineering--- Scaling, Graphs, Feature Engineering
+If we can get better results
+
+
+By looking at the imbalanced nature of the target variable, we get to decide the loss metric.
+
+Hyperparameter tuning in Xgboost
+Decision tree --- gini impurity
+Hyperparameter: It decides how fast the algo wants to converge.
+
+Leaning rate == overfitting reduce
